@@ -1,0 +1,4 @@
+name: AuraLib
+version: '1.0.0'
+main: me.demonducky.auralib.AuraLib
+api-version: '1.8'
