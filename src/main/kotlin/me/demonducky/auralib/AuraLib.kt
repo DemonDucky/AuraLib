@@ -13,6 +13,6 @@ object AuraLib {
     }
 
     fun Plugin.useAuraLib() {
-        AuraLib.initialize(this)
+        initialize(this)
     }
 }
